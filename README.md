@@ -2,6 +2,8 @@
 
 เว็บเดโมร้านเติมเกมสไตล์ cyber dashboard สร้างด้วย Next.js, React, Tailwind CSS และ Supabase สำหรับระบบ auth, ข้อมูลเกม, แพ็กเกจเติมเงิน และประวัติคำสั่งซื้อ
 
+![alt text](public/banners/preview.png)
+
 ## Features
 
 - หน้าแรกแสดง banner โปรโมชันและรายการเกมจาก Supabase
